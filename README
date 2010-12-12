@@ -1,0 +1,5 @@
+TableKit is a collection of HTML table enhancements using the Prototype framework. 
+
+TableKit currently implements row striping, column sorting, column resizing and cell editing using Ajax.
+
+See the demo for documentation.
